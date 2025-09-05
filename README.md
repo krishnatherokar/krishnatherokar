@@ -25,3 +25,5 @@ I'm currently pursuing **Bachelor of Engineering** (B.E.) in **Artificial Intell
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-krishnatherokar-blue?style=for-the-badge&logo=invision&logoColor=white)](https://www.linkedin.com/in/krishnatherokar/)
 <br>
 [![LEETCODE](https://img.shields.io/badge/LeetCode-krishnatherokar-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/krishnatherokar/)
+<br>
+[![KAGGLE](https://img.shields.io/badge/Kaggle-krishnatherokar-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/krishnatherokar/)
